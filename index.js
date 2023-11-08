@@ -16,9 +16,6 @@ function getComputerChoice(){
 // getComputerChoice();
 
 
-function playRound(playerSelection, computerSelection) {
-    playerSelection = prompt('What is your input?');
-    playerSelection = playerSelection.toLowerCase();
 
     if(computerSelection > playerSelection){
      }
